@@ -1,2 +1,2 @@
-https://ValeriiaBokher.github.io/rsschool-cv/cv
-https://ValeriiaBokher.github.io/rsschool-cv/
+https://ValeriiaBokher.github.io/rsschool-cv-stage0/cv
+https://ValeriiaBokher.github.io/rsschool-cv-stage0/
